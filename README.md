@@ -1,6 +1,14 @@
 # SPACETUBE_NASASpaceAppsChallenge2021
 ### NASA Space Apps Challenge 2021
 
+## Team Name: TEAM ATLAS
+### Team Members:
+- Sunny Jubayer
+- Mir Tanzid Ahmed Dip
+- Mir Sazid Hassan
+- Mir Sadia Afrin
+- Khandoker Maruf Bin Islam
+
 ## Project Name: SPACE TUBE (A Space Farming Solution)
 
 #### _Keywords: space tube, tube app, artificial intelligence, fertilization, astronauts, image processing, autonomous system._
@@ -30,14 +38,6 @@ Growth of the plants, environment of the tube and the nutrition supply will be m
 The app has been designed for controlling the hardware and it has it’s own data page. Astronauts can be acknowledged about the conditions of space tube and they can control the space tube specifications through the App. The app will store all the informations and data of the tube. The app will notify the astronauts about the stages of crops and when to reap the harvest.
 
 Therefore, autonomous system of the space tube will control the entire environment of the tube ensure the  reaping of good harvest. It doesn’t need 24 hour human surveillance and the technology will ensure the nutritions  for the astronauts for a long period of time in space. This technology can be used in earth for the reaping of quality harvest as the optimum environment for the crop is maintained strictly.
-
-## Team Name: TEAM ATLAS
-### Team Members:
-- Sunny Jubayer
-- Mir Tanzid Ahmed Dip
-- Mir Sazid Hassan
-- Mir Sadia Afrin
-- Khandoker Maruf Bin Islam
 
 ## LICENSE
 GNU General Public License v3.0
