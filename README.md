@@ -3,6 +3,8 @@
 
 ## Project Name: SPACE TUBE (A Space Farming Solution)
 
+#### _Keywords: space tube, tube app, artificial intelligence, fertilization, astronauts, image processing, autonomous system._
+
 ## Space Tube 
 Space tube is a tube where essential crops will be produced in space with the help of scientific method and the project is based on a mobile app. In this tube, the cultivation process, supplying nutrition will be processed autonomously. All of the information and data of this tube will be stored in ‘ Tube App'. 
 
